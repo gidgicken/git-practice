@@ -1,5 +1,5 @@
 var dm11 = "Started today";
-
+var pullThis = "Pull this";
 var journal = [];
 
 journal.push(dm11);
